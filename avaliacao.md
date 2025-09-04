@@ -9,7 +9,8 @@
 3. [Funcionamento da Avaliação](#3-funcionamento-da-avaliação)
 4. [Orientações para Entrega](#4-orientações-para-entrega)
 5. [Critérios de Avaliação](#5-critérios-de-avaliação)
-6. [Recomendações](#6-recomendações)
+6. [Sobre este Modelo](#6-sobre-este-modelo)
+7. [Recomendações](#7-recomendações)
 
 ---
 
@@ -101,7 +102,21 @@ A avaliação será dividida em **duas partes**, entregues em datas diferentes:
 
 ---
 
-## 6. Recomendações
+## 6. Sobre este Modelo
+
+**Importante:** Este modelo de avaliação é uma **sugestão com o mínimo necessário** para aplicar métodos ágeis em um projeto de desenvolvimento de software. 
+
+**Incentiva-se fortemente** que as equipes:
+- **Acrescentem novas ideias** e práticas ágeis que considerem relevantes
+- **Implementem melhorias** ao modelo proposto
+- **Adaptem** os artefatos e processos às necessidades específicas do projeto
+- **Inovem** na aplicação dos conceitos aprendidos
+
+O objetivo é que cada equipe desenvolva sua própria abordagem ágil, utilizando este modelo como base e expandindo-o conforme sua criatividade e necessidades do projeto.
+
+---
+
+## 7. Recomendações
 1. Formem equipes com papéis claros e divisão de responsabilidades.  
 2. Atualizem o Kanban diariamente e registrem reuniões.  
 3. Documentem impedimentos e soluções adotadas.  
