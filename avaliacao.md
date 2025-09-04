@@ -70,7 +70,7 @@ A avaliação será dividida em **duas partes**, entregues em datas diferentes:
 - A apresentação deve demonstrar o domínio do grupo sobre as práticas ágeis utilizadas
 
 ### Datas
-- **Parte 1:** ___ / ___ / ____ (Entrega do PDF + Apresentação)
+- **Parte 1:** 24/09 (Entrega do PDF + Apresentação)
 - **Parte 2:** ___ / ___ / ____ (Entrega do PDF + Apresentação)
 
 ---
